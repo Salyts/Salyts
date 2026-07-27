@@ -1,5 +1,5 @@
-## Mods
-This is a collection of all the mods I have created.
+## Windhawk Mods
+Here is a collection of all my Windhawk mods.
 
 | # | Name | Version | Description | Link |
 |---|---|---|---|---|
