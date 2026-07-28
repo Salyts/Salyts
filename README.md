@@ -8,3 +8,5 @@ Here is a collection of all my Windhawk mods.
 | 3 | `Ultimate Custom Tray` | 2.1 | Adds customizable tray icons with actions, menus, app/image icons, and theme support. | [GitHub](https://github.com/Salyts/Ultimate-Custom-Tray), [Windhawk](https://windhawk.net/mods/ultimate-custom-tray). |
 | 4 | `Desktop Audio Visualizer` | 1.0.0 | Real-time audio visualizer on your Windows desktop with customizable appearance. | [Windhawk](https://windhawk.net/mods/desktop-audio-visualizer). |
 | 5 | `Window Center & Resize` | 1.0 | Centers and resizes the foreground window using global hotkeys. | [Windhawk](https://windhawk.net/mods/window-center-resize). |
+
+<a href='https://ko-fi.com/K8Y8219Z6E' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
